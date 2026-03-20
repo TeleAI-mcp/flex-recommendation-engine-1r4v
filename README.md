@@ -1,2 +1,3 @@
-# flex-recommendation-engine-1r4v
-AI-powered recommendation system for modern development workflows
+# Flex Recommendation Engine 1R4V
+
+A AI-powered recommendation system for modern development workflows.
